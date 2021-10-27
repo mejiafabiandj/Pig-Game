@@ -8593,11 +8593,11 @@ body.landing-page {
 }
 
 .landing-page .header-back.one {
-    background: url('../img/landing/header_one.jpg') 50% 0 no-repeat;
+    /* background: url('../img/landing/header_one.jpg') 50% 0 no-repeat; */
 }
 
 .landing-page .header-back.two {
-    background: url('../img/landing/header_two.jpg') 50% 0 no-repeat;
+    /* background: url('../img/landing/header_two.jpg') 50% 0 no-repeat; */
 }
 
 .landing-page .carousel {
@@ -8844,7 +8844,7 @@ body.landing-page {
     padding-top: 80px;
     padding-bottom: 90px;
     background-color: #1ab394;
-    background-image: url('../img/landing/avatar_all.png');
+    /* background-image: url('../img/landing/avatar_all.png'); */
 }
 
 .landing-page .big-icon {

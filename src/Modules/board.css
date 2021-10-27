@@ -320,6 +320,12 @@
     animation-name: fadeInRight;
 }
 
+@media (max-width: 992px) {
+    .list-group-horizontal {
+        flex-direction: column;
+    }
+}
+
 .list-group-item {
     flex: 1;
 }
