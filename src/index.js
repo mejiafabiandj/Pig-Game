@@ -60,7 +60,7 @@ function startGame() {
     modal._element.querySelector(".modal-body").textContent = "";
 
     var board = new Board();
-    modal._element.querySelector(".modal-body").appendChild(board.loadBoard());
+    modal._element.querySelector(".modal-body").appendChild(board.loadBoard(playerCount));
 
     modal.show();
 }
